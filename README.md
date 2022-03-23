@@ -1,4 +1,5 @@
 # Kodluyoruz Ilk Repo
+![LİON](./Pictures/liom.jpeg)
 ### Bu repo [kodluyoruz](https://www.kodluyoruz.org/) Front-End eğitiminde oluşturduğum ilk repo. İçerisinde bir adet README dosyası bir adet index.html barındıyor.
 # Installation
 ### Öncelikle projeyi clone layın (Bu kısımda link bulunuyor)
